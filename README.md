@@ -1,6 +1,6 @@
-# vue-Vite_Pinia
+# Vue-Vite_Pinia Scaffold
 
-This is a scalfold Vue project with Vue Router, Axios (for HTTP requests), Pinia (state management), and Vite (for fast builds), ESLint (linting), JWT Authentication, and Vite testing.
+This is a scaffold Vue project with Vue Router, Axios (for HTTP requests), Pinia (state management), and Vite (for fast builds), ESLint (linting), JWT Authentication, and Vite testing.
 
 ## Recommended IDE Setup
 
